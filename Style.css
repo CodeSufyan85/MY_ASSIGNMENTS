@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.outer{
+    width: 700px;
+    height: 800px;
+    margin: 0px auto;
+}
+.outer h1{
+    text-align: center;
+    background-color: rgb(64, 139, 224);
+    border: 1px solid black;
+
+}
+p{
+    font-size: 20px;
+}
+.border{
+    width: 100%;
+    padding: 5px;
+    background-color: rgb(71, 162, 236);
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+ul{
+    font-size: 20px;
+    margin-left: 50px;
+}
